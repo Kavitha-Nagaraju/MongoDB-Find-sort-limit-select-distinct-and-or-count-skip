@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+  background-color: aquamarine;
+  width:400px;
+  height:100px;
+
+  
+}
+form label{
+  display: inline-block;
+  text-align: center;
+  width:100px;
+}
+table,td{
+  border: 5px,ridge;
+}
+select{
+  width:100px;
+}
